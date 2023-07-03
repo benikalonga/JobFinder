@@ -4,13 +4,15 @@
 
 #Get started with this
 
-- To run the project, Clone the app [JobFinder](https://github.com/benikalonga/ZuseShop.git) 👍
-- Open the CMD, and change the directory to the root (e.g CD ''../../ZuseShop'')
+- To run the project, Clone the app [JobFinder](https://github.com/benikalonga/JobFinder.git) 👍
+- Open the CMD, and change the directory to the root (e.g CD ''../../JobFinder'')
 - Run the command npm to install all the dependancies
 - Run npm start to start the server
 - Or if you have Expo app already, just enter the url and run
 
 ### Here is a video showing how it works
+
+https://github.com/benikalonga/JobFinder/assets/29547138/dea1bd2b-3a63-4586-9b2d-0afb829845ee
 
 # Features
 
